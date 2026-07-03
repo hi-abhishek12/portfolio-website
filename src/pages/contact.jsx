@@ -7,6 +7,9 @@ function contact() {
       <input type="text" />
       <input type="password" />
       <input type="email" />
+      <input type="date" />
+      <input type="color" />
+      <input type="number" />
 
     </div>
   )
