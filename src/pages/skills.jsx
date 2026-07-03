@@ -2,7 +2,7 @@ import React from 'react'
 
 function skills() {
   return (
-    <div>skills</div>
+    <div className='bg-amber-300'>skills I know full stack web development </div>
   )
 }
 
